@@ -115,3 +115,5 @@
 - Validate API endpoints using Postman/Bruno.
 
 - Ensure mobile & desktop compatibility.
+
+## Day 7: Submission
