@@ -105,8 +105,13 @@
 - Implement File Upload & Document Review UI.
 - Deploy Backend (Render/DigitalOcean) & Frontend (Vercel/Netlify).
 
+
 # Day 6: Testing, Debugging & Submission
-- Test full functionality (Backend + Frontend).
-- Fix bugs & UI improvements.
-- Write README, API documentation & final report.
-- Prepare final demo & submission package.
+**Functionality Testing**
+- Test all key features (frontend + backend).
+
+- Check authentication, role access, rent tracking, documents, dashboard.
+
+- Validate API endpoints using Postman/Bruno.
+
+- Ensure mobile & desktop compatibility.
